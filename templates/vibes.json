@@ -1,0 +1,17 @@
+{
+  "project": {
+    "serious": "I’m excited to announce the launch of my latest project: {project_name}. Built using {tech_stack}, this project reflects my commitment to innovation and problem-solving. #ProjectLaunch #TechInnovation",
+    "casual": "Just launched a fun new project: {project_name} 🚀 Built it using {tech_stack}. Would love feedback or collabs! #ProjectDone #CollegeDev",
+    "funny": "Finally dropped {project_name} so my VS Code can rest 💤 Built with {tech_stack} and 1000 cups of chai. #JustShipped #DevLife"
+  },
+  "hackathon": {
+    "serious": "Thrilled to have won at {hackathon_name}! Our solution, {project_name}, used {tech_stack} to solve real-world problems. Grateful for the experience! #HackathonWin #TeamWork",
+    "casual": "Won at {hackathon_name}! 🎉 We built {project_name} using {tech_stack} — tons of coffee, code, and chaos. #HackathonHustle",
+    "funny": "{hackathon_name} didn’t know what hit it! We built {project_name} with {tech_stack} and a LOT of memes. Still recovering from no sleep 😴 #HackathonMadness"
+  },
+  "resume": {
+    "serious": "Updated my resume with new projects and skills in {tech_stack}. Open to opportunities in tech and innovation! #ResumeUpdate #CareerGrowth",
+    "casual": "Just polished my resume ✨ Added some cool stuff like {tech_stack}. If you're hiring, let’s connect! #OpenToWork",
+    "funny": "Updated my resume so recruiters can finally see I’ve done more than just 'print(\"Hello World\")'. Check it out — now featuring {tech_stack} and caffeine. #GitGud"
+  }
+}
